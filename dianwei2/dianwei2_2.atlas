@@ -1,0 +1,153 @@
+
+dianwei2_2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dianwei2_bs_huoh
+  rotate: false
+  xy: 2, 12
+  size: 138, 153
+  orig: 138, 153
+  offset: 0, 0
+  index: -1
+dianwei2_bs_huoh2
+  rotate: false
+  xy: 483, 333
+  size: 146, 175
+  orig: 146, 175
+  offset: 0, 0
+  index: -1
+dianwei2_bs_huoh3
+  rotate: true
+  xy: 142, 17
+  size: 148, 192
+  orig: 148, 192
+  offset: 0, 0
+  index: -1
+dianwei2_bs_huol
+  rotate: false
+  xy: 589, 4
+  size: 66, 70
+  orig: 66, 70
+  offset: 0, 0
+  index: -1
+dianwei2_bs_huol2
+  rotate: false
+  xy: 725, 44
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+dianwei2_bs_huol3
+  rotate: false
+  xy: 657, 5
+  size: 66, 69
+  orig: 66, 69
+  offset: 0, 0
+  index: -1
+dianwei2_bs_jiaol
+  rotate: true
+  xy: 725, 5
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+dianwei2_bs_jiaor
+  rotate: true
+  xy: 776, 5
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+dianwei2_bs_shen
+  rotate: false
+  xy: 2, 167
+  size: 299, 341
+  orig: 299, 341
+  offset: 0, 0
+  index: -1
+dianwei2_bs_shoul
+  rotate: true
+  xy: 673, 112
+  size: 142, 118
+  orig: 142, 118
+  offset: 0, 0
+  index: -1
+dianwei2_bs_shour
+  rotate: true
+  xy: 631, 366
+  size: 142, 120
+  orig: 142, 120
+  offset: 0, 0
+  index: -1
+dianwei2_bs_wei
+  rotate: false
+  xy: 483, 248
+  size: 141, 83
+  orig: 141, 83
+  offset: 0, 0
+  index: -1
+dianwei2_bs_yan
+  rotate: true
+  xy: 626, 256
+  size: 75, 57
+  orig: 75, 57
+  offset: 0, 0
+  index: -1
+dianwei2_bs_zui
+  rotate: false
+  xy: 589, 76
+  size: 82, 170
+  orig: 82, 170
+  offset: 0, 0
+  index: -1
+dianwei2_jn_guang
+  rotate: false
+  xy: 336, 2
+  size: 251, 230
+  orig: 251, 230
+  offset: 0, 0
+  index: -1
+dianwei2_jn_guang1
+  rotate: true
+  xy: 631, 334
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+dianwei2_jn_guang2
+  rotate: false
+  xy: 303, 190
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+dianwei2_jn_guang3
+  rotate: true
+  xy: 665, 334
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+dianwei2_nuqi1
+  rotate: false
+  xy: 303, 234
+  size: 178, 274
+  orig: 178, 274
+  offset: 0, 0
+  index: -1
+dianwei2_nuqi2
+  rotate: true
+  xy: 693, 256
+  size: 108, 132
+  orig: 108, 132
+  offset: 0, 0
+  index: -1
+hero_effect_halo1
+  rotate: false
+  xy: 753, 462
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
