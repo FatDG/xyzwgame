@@ -1,0 +1,152 @@
+cwxt26_cw_huan_mengmo1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_jiaorq
+  rotate: true
+  xy: 481, 138
+  size: 33, 29
+  orig: 33, 30
+  offset: 0, 1
+  index: -1
+1_xian2
+  rotate: false
+  xy: 2, 120
+  size: 222, 155
+  orig: 222, 157
+  offset: 0, 2
+  index: -1
+1_yun2
+  rotate: true
+  xy: 189, 68
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+1binm1
+  rotate: true
+  xy: 131, 36
+  size: 36, 55
+  orig: 36, 55
+  offset: 0, 0
+  index: -1
+1binm4
+  rotate: true
+  xy: 60, 32
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+1er1
+  rotate: true
+  xy: 325, 63
+  size: 67, 69
+  orig: 67, 69
+  offset: 0, 0
+  index: -1
+1er2
+  rotate: true
+  xy: 416, 173
+  size: 102, 75
+  orig: 102, 75
+  offset: 0, 0
+  index: -1
+1jiaolh
+  rotate: true
+  xy: 481, 101
+  size: 35, 25
+  orig: 39, 27
+  offset: 0, 2
+  index: -1
+1jiaolq
+  rotate: false
+  xy: 109, 3
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+1shen
+  rotate: false
+  xy: 226, 132
+  size: 188, 143
+  orig: 191, 143
+  offset: 0, 0
+  index: -1
+1toukui
+  rotate: false
+  xy: 325, 12
+  size: 83, 49
+  orig: 86, 53
+  offset: 0, 1
+  index: -1
+1wei
+  rotate: false
+  xy: 2, 16
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+1xianglian
+  rotate: false
+  xy: 226, 62
+  size: 97, 68
+  orig: 97, 68
+  offset: 0, 0
+  index: -1
+22_yan
+  rotate: false
+  xy: 481, 77
+  size: 23, 22
+  orig: 24, 23
+  offset: 1, 1
+  index: -1
+23_yan
+  rotate: true
+  xy: 493, 253
+  size: 22, 16
+  orig: 24, 16
+  offset: 2, 0
+  index: -1
+2an
+  rotate: false
+  xy: 416, 60
+  size: 63, 111
+  orig: 63, 112
+  offset: 0, 1
+  index: -1
+2toujiao
+  rotate: false
+  xy: 131, 74
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+3_xing2
+  rotate: false
+  xy: 188, 21
+  size: 36, 45
+  orig: 38, 47
+  offset: 1, 1
+  index: -1
+3_zui2
+  rotate: false
+  xy: 2, 65
+  size: 70, 53
+  orig: 70, 53
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: true
+  xy: 74, 64
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+zui1
+  rotate: false
+  xy: 410, 2
+  size: 69, 56
+  orig: 71, 56
+  offset: 1, 0
+  index: -1
