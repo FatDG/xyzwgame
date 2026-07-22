@@ -1,0 +1,103 @@
+zhangyu_skill_loop.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+03_bk01
+  rotate: false
+  xy: 259, 160
+  size: 22, 20
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+03_hx01
+  rotate: false
+  xy: 215, 195
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+03_sd01
+  rotate: false
+  xy: 2, 2
+  size: 179, 156
+  orig: 182, 161
+  offset: 1, 3
+  index: -1
+03_sd02
+  rotate: false
+  xy: 2, 160
+  size: 211, 150
+  orig: 218, 155
+  offset: 3, 2
+  index: -1
+03_sd03
+  rotate: false
+  xy: 2, 312
+  size: 205, 159
+  orig: 209, 165
+  offset: 2, 4
+  index: -1
+03_sh01
+  rotate: false
+  xy: 215, 160
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+03_sh02
+  rotate: false
+  xy: 272, 254
+  size: 19, 20
+  orig: 21, 22
+  offset: 1, 1
+  index: -1
+03_shuid
+  rotate: false
+  xy: 259, 182
+  size: 22, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+03_shuid01
+  rotate: false
+  xy: 272, 276
+  size: 18, 14
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+03_shuidi
+  rotate: true
+  xy: 183, 8
+  size: 151, 111
+  orig: 151, 111
+  offset: 0, 0
+  index: -1
+03_yu01
+  rotate: false
+  xy: 251, 213
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+03_yu02
+  rotate: false
+  xy: 251, 213
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+03_yu03
+  rotate: false
+  xy: 260, 231
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+texiao
+  rotate: false
+  xy: 254, 276
+  size: 16, 16
+  orig: 18, 18
+  offset: 1, 1
+  index: -1
