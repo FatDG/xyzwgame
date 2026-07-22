@@ -1,0 +1,285 @@
+cwxt26_cw_lu_chituma2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01-ctm_ed01
+  rotate: false
+  xy: 777, 60
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+01-ctm_hy01
+  rotate: true
+  xy: 360, 108
+  size: 146, 115
+  orig: 146, 115
+  offset: 0, 0
+  index: -1
+01-ctm_yj01
+  rotate: true
+  xy: 191, 8
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+01-ctm_yj02
+  rotate: false
+  xy: 791, 178
+  size: 29, 29
+  orig: 29, 30
+  offset: 0, 1
+  index: -1
+01-xhj_01
+  rotate: false
+  xy: 669, 189
+  size: 65, 65
+  orig: 65, 66
+  offset: 0, 1
+  index: -1
+02-ctm_zs01
+  rotate: false
+  xy: 669, 189
+  size: 65, 65
+  orig: 65, 66
+  offset: 0, 1
+  index: -1
+02-ctm_ma01
+  rotate: true
+  xy: 569, 114
+  size: 50, 59
+  orig: 51, 61
+  offset: 0, 1
+  index: -1
+02-xma_01
+  rotate: true
+  xy: 569, 114
+  size: 50, 59
+  orig: 51, 61
+  offset: 0, 1
+  index: -1
+02-ctm_mt
+  rotate: true
+  xy: 295, 6
+  size: 82, 96
+  orig: 82, 96
+  offset: 0, 0
+  index: -1
+02-ctm_zs02
+  rotate: false
+  xy: 770, 15
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+02-ctm_zs06
+  rotate: false
+  xy: 2, 9
+  size: 96, 72
+  orig: 97, 72
+  offset: 0, 0
+  index: -1
+02-ctm_zs06-1
+  rotate: false
+  xy: 780, 209
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+02-ctm_zs07
+  rotate: true
+  xy: 605, 183
+  size: 71, 62
+  orig: 71, 62
+  offset: 0, 0
+  index: -1
+02-xhj_02
+  rotate: true
+  xy: 393, 16
+  size: 90, 89
+  orig: 90, 91
+  offset: 0, 1
+  index: -1
+02-xhj_02-1
+  rotate: false
+  xy: 726, 4
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+02-xj_01
+  rotate: true
+  xy: 736, 198
+  size: 56, 42
+  orig: 56, 43
+  offset: 0, 1
+  index: -1
+02-xmjj_01
+  rotate: true
+  xy: 484, 18
+  size: 90, 50
+  orig: 90, 50
+  offset: 0, 0
+  index: -1
+02-xmy_02
+  rotate: false
+  xy: 748, 55
+  size: 27, 26
+  orig: 29, 27
+  offset: 1, 0
+  index: -1
+ctm_ht01
+  rotate: true
+  xy: 164, 83
+  size: 61, 102
+  orig: 61, 102
+  offset: 0, 0
+  index: -1
+ctm_ht02
+  rotate: false
+  xy: 660, 54
+  size: 46, 63
+  orig: 46, 63
+  offset: 0, 0
+  index: -1
+ctm_qt01
+  rotate: false
+  xy: 477, 166
+  size: 62, 88
+  orig: 62, 88
+  offset: 0, 0
+  index: -1
+ctm_qt02
+  rotate: true
+  xy: 268, 90
+  size: 54, 90
+  orig: 54, 90
+  offset: 0, 0
+  index: -1
+ctm_qt03
+  rotate: true
+  xy: 630, 119
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+ctm_shenti
+  rotate: true
+  xy: 2, 83
+  size: 171, 160
+  orig: 177, 160
+  offset: 0, 0
+  index: -1
+ctm_wb01
+  rotate: false
+  xy: 536, 33
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+ctm_zb01
+  rotate: true
+  xy: 750, 146
+  size: 50, 39
+  orig: 50, 40
+  offset: 0, 1
+  index: -1
+ctm_zb02
+  rotate: true
+  xy: 701, 135
+  size: 52, 47
+  orig: 54, 47
+  offset: 1, 0
+  index: -1
+xht_01
+  rotate: true
+  xy: 191, 20
+  size: 61, 102
+  orig: 61, 102
+  offset: 0, 0
+  index: -1
+xht_02
+  rotate: true
+  xy: 661, 6
+  size: 46, 63
+  orig: 46, 63
+  offset: 0, 0
+  index: -1
+xmc_01
+  rotate: false
+  xy: 536, 2
+  size: 78, 29
+  orig: 78, 29
+  offset: 0, 0
+  index: -1
+xmc_02
+  rotate: false
+  xy: 616, 5
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+xmed_01
+  rotate: false
+  xy: 708, 55
+  size: 38, 26
+  orig: 38, 27
+  offset: 0, 1
+  index: -1
+xms_01
+  rotate: false
+  xy: 164, 146
+  size: 194, 108
+  orig: 194, 108
+  offset: 0, 0
+  index: -1
+xmt_01
+  rotate: false
+  xy: 100, 4
+  size: 89, 77
+  orig: 89, 77
+  offset: 0, 0
+  index: -1
+xmwb_01
+  rotate: false
+  xy: 598, 37
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+xmy_01
+  rotate: false
+  xy: 202, 9
+  size: 9, 9
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+xmz_01
+  rotate: false
+  xy: 755, 100
+  size: 41, 44
+  orig: 41, 46
+  offset: 0, 1
+  index: -1
+xmz_02
+  rotate: true
+  xy: 708, 83
+  size: 50, 45
+  orig: 50, 47
+  offset: 0, 1
+  index: -1
+xqt_01
+  rotate: false
+  xy: 541, 166
+  size: 62, 88
+  orig: 62, 88
+  offset: 0, 0
+  index: -1
+xqt_02
+  rotate: true
+  xy: 477, 110
+  size: 54, 90
+  orig: 54, 90
+  offset: 0, 0
+  index: -1
